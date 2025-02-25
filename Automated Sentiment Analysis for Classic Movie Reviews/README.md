@@ -44,20 +44,5 @@ The LightGBM model delivered stellar results, surpassing the target F1 score of 
 - Python 3.12.3  
 - Required libraries: `numpy`, `pandas`, `matplotlib`, `seaborn`, `sklearn`, `nltk`, `spacy`, `lightgbm`  
 
-### Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-### Usage
-1. Launch the Jupyter Notebook:
-   ```bash
-   jupyter notebook "Automated Sentiment Analysis for Classic Movie Reviews.ipynb"
-2. Follow the notebook to explore the code and replicate results!
 
-### Contributing
-We’d love your input! Feel free to open an issue or submit a pull request with enhancements or bug fixes.
 
